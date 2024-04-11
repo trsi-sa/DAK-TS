@@ -1,6 +1,6 @@
 
-# TS-OSINT (TLER AL-SHAHRANI-OSINT)
-## أداة (استخبارات المصادر المفتوحة-OSINT (Open-Source Intelligence 
+# DAK-TS (DDOS attack-TLER AL-SHAHRANI)
+## أداة هجمة DDOS
 
 <img src="https://github.com/tlersa/DAK-TS/assets/111729973/fe136b75-1fb9-4103-8832-0a03cc5ba609" width="1000">
 
