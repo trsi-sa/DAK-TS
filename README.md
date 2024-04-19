@@ -2,7 +2,7 @@
 # DAK-TS (DDOS attack-TLER AL-SHAHRANI)
 ## أداة هجمة DDOS
 
-<img src="https://github.com/tlersa/DAK-TS/assets/111729973/fe136b75-1fb9-4103-8832-0a03cc5ba609" width="1000">
+<img src="https://github.com/tlersa/DAK-TS/assets/111729973/fa14ed33-ff22-4c2a-8ac9-b9b1c6210c64" width="1000">
 
 ### (KALI Linux) أوامر التثبيت
 ```
