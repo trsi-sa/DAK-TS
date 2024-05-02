@@ -1,8 +1,4 @@
-try: import socket, random, threading, os
-except ModuleNotFoundError:
-    os.system("pip install socket random threading os")
-
-    os.system("clear")
+import socket, random, threading
 
 Black = "\033[1;30m"
 Red = "\033[1;31m"
