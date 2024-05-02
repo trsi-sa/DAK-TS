@@ -1,6 +1,6 @@
 
 # DAK-TS (DDOS attack-TLER AL-SHAHRANI)
-## أداة هجمة DDOS
+## أداة هجمتي DDOS/DOS
 
 <img src="https://github.com/tlersa/DAK-TS/assets/111729973/fa14ed33-ff22-4c2a-8ac9-b9b1c6210c64" width="1000">
 
